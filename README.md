@@ -1,4 +1,4 @@
-# SHUGABAN - Online Movie and Rentals(Admin Portal) 
+# SHUGABAN - Online Movie Streaming Service(Admin Portal) 
 **Rent or Buy Movies, and watch online**
 
 ## Features
@@ -11,7 +11,7 @@
 - <a href="https://shugaban.com/" target="_blank">https://shugaban.com/</a>
 
 
-
+### Author
 * **Dankyi Anno Kwaku** 
 
 
